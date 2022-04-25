@@ -3,7 +3,7 @@ Hello I'm Luana Silva
 - Degree in Software Engineering
 - I'm Currently learning Python and Java 
 - Pronouns: She/Her
-## Oiii eu sou a Luana Silva, criadora de software de programação e tecnologia!
+## Oiii eu sou a Luana Silva, estudante de Engenharia de Software e Desenvolvedora Full stack Junior!
 <div align="center">
   <a href="https://github.com/lunaE98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunaE98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@ Hello I'm Luana Silva
  
 <div> 
   <a href="https://www.linkedin.com/in/luanaeosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:evvelynolievira.98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </a>
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
