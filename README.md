@@ -1,9 +1,9 @@
 Hello I'm Luana Silva
--✌ I'm Currently working on Fullstack Dev
+-✌ I'm Currently working as Intern on Huawei Cloud
 - Degree in Software Engineering
-- I'm Currently learning Python and Java 
+- I'm Currently learning Linux, Java, C, Python SQL 
 - Pronouns: She/Her
-## Oiii eu sou a Luana Silva, estudante de Engenharia de Software e Desenvolvedora Full stack Junior!
+## Oiii eu sou a Luana Silva, estudante de Engenharia de Software e Arquiteta de cloud junior e desenvolvedora de software.
 <div align="center">
   <a href="https://github.com/lunaE98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunaE98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
