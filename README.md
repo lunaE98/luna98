@@ -1,7 +1,7 @@
 Hello I'm Luana Silva
 -✌ I'm Currently working as Intern on Huawei Software Dept.
 - Degree in Software Engineering
-- I'm Currently learning Linux, Java, C, Python 
+- I'm Currently learning Linux, Java, Ruby, Python 
 - Pronouns: She/Her
 ## Oiii eu sou a Luana Silva, estudante de Engenharia de Software e desenvolvedora de Software Junior.
 <div align="center">
